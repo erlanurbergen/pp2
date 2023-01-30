@@ -11,5 +11,5 @@ def getData():
     country = "Kz"
     return name, age, country
 
-tupl1 = getData()
-print(tupl1)
+a = getData()
+print(type(a))

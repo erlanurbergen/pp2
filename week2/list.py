@@ -40,3 +40,7 @@ def sortList(a):
 
 list1 = [100, 5, 6, 7, 1000, 9]
 print(min(list1))
+
+# list1 = [1, 100, -7, 9]
+# max1 = max(list1)
+# print(max1)
