@@ -73,3 +73,7 @@ while number < 5:
     if number == 3 :    # если number = 3, переходим к новой итерации цикла
         continue
     print(f"number = {number}")
+
+
+for i in range(2, 50, 3):
+    print(i)
